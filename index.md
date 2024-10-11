@@ -7,8 +7,9 @@ description: Software Engineer Portfolio
 
 **Location:** Flagstaff, Arizona  
 **Phone:** +1-928-266-8882  
-**Email:** [mounikaerla23@gmail.com](mailto:mounikaerla23@gmail.com)  
-**GitHub:** [github.com/mounika-erla](https://github.com/mounika-erla)  
+**GitHub:** [github.com/mounika-erla](https://github.com/mounika-erla)
+**Email:** [mounikaerla23@gmail.com](mailto:mounikaerla23@gmail.com)
+ 
 
 ## Education
 
@@ -53,7 +54,7 @@ Bangalore, India
 ## Projects
 
 ### Intelligent Technology Enhances the Friendliness of Pharmacy Care Service  
-*Technologies:* Python, TensorFlow, OpenCV, Tesseract, MySQL, Java, Spring Boot, Angular, React  
+- *Technologies:* Python, TensorFlow, OpenCV, Tesseract, MySQL, Java, Spring Boot, Angular, React  
 - Developed an AI-based system for accurate prescription identification and real-time medication tracking.  
 - Integrated optical recognition to reduce prescription errors and enhance patient care.  
 - Improved healthcare service efficiency through advanced AI techniques.
