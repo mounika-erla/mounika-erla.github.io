@@ -1,50 +1,69 @@
-Mounika Erla
-Flagstaff, Arizona
-+1-928-266-8882 mounikaerla23@gmail.com
-EDUCATION
-Northern Arizona University Aug 2023 – Dec 2024
-Master of Science - Computer Science; GPA : 3.67/4.00 Flagstaff, AZ
-Courses: Data Structures, Python, Algorithms, Large Scale Data Structures, Database, Applied Cryptography,
-Network Security, Cyber Security Policies and Ethics, Advanced Software Assurance.
-TECHNICAL SKILLS
-Languages/Databases: Java, Python, JavaScript, C, HTML5, CSS, Postgres, MySQL, C, C++, .NET.
-Frameworks/Libraries: Spring Boot, Hibernate, Spring JPA, Docker, React, Angular, RabbitMQ.
- Others: Git, JUnit, Mockito, OAuth2.0, Swagger, Postman, MVC, Microservices.
-EXPERIENCE
-Northern Arizona University May 2024 – Present
-Summer Housing Assistant & Campus Living Operations Assistant Flagstaff, AZ
-- Oversaw front desk operations, housing assignments, and group check-ins, utilizing StarRez to enhance
-processes.
-- Delivered exceptional customer service by addressing inquiries from students and parents, resolving issues
-promptly.
-- Managed payroll, scheduled staff shifts, and trained team members, demonstrating strong leadership and
-organizational skills.
-ACL Digital Feb 2022 – July 2023
-Software Engineer Bangalore, India
-- Completed 6 months of training in .Net, Java, Angular, and React JS.
-- Developed and maintained Spring Boot applications using Java, collaborating with cross-functional teams to
-design and implement software solutions.
-- Designed Restful APIs for a Single-Sign-On setup in Spring Boot, improving performance by 2% through
-enhanced security and streamlined administration.
-- Built and managed databases to ensure efficient data handling and optimized performance.
-- Debugged and resolved application issues, delivering timely and effective solutions.
-- Participated in code reviews, offering constructive feedback.
-- Implemented security measures to protect applications from vulnerabilities and threats.
-- Developed and executed unit tests to ensure code reliability and functionality.
-PROJECTS
-Intelligent Technology Enhances the Friendliness of Pharmacy Care Service | Python, TensorFlow,
-OpenCV, Tesseract, MySQL, Java, Spring Boot, Angular, React
-- Developed an AI-based system for accurate prescription identification and real-time patient
-medication tracking.
-- Integrated AI techniques for optical recognition and streamlined medication management, reducing
-prescription errors and optimizing patient care.
-- Utilized advanced technologies to enhance healthcare service efficiency.
-Satin AI Project: Advancing Image Resolution and Distance Calculation | Python, TensorFlow,
-MySQL, NASA Open Dataset
-- Built an AI system to improve image resolution and distance calculation accuracy using machine
-learning techniques.
-- Applied image processing and analysis to enhance image quality and scaling, showcasing AI’s
-potential in computational imaging advancements.
- erla-mounika-186214 github.com/mounika-erla
-Edit profile
-uriVinay
+# Mounika Erla
+
+**Location:** Flagstaff, Arizona  
+**Phone:** +1-928-266-8882  
+**Email:** [mounikaerla23@gmail.com](mailto:mounikaerla23@gmail.com)  
+**GitHub:** [github.com/mounika-erla](https://github.com/mounika-erla)  
+
+## Education
+
+**Master of Science - Computer Science**  
+Northern Arizona University (Aug 2023 – Dec 2024)  
+**GPA:** 3.67/4.00  
+*Relevant Courses:*  
+- Data Structures  
+- Python  
+- Algorithms  
+- Large Scale Data Structures  
+- Database  
+- Applied Cryptography  
+- Network Security  
+- Cyber Security Policies and Ethics  
+- Advanced Software Assurance  
+
+---
+
+## Technical Skills
+
+- **Languages/Databases:** Java, Python, JavaScript, C, C++, HTML5, CSS, Postgres, MySQL, .NET  
+- **Frameworks/Libraries:** Spring Boot, Hibernate, Spring JPA, Docker, React, Angular, RabbitMQ  
+- **Other Tools:** Git, JUnit, Mockito, OAuth2.0, Swagger, Postman, MVC, Microservices  
+
+---
+
+## Experience
+
+### Northern Arizona University  
+**Summer Housing Assistant & Campus Living Operations Assistant** (May 2024 – Present)  
+Flagstaff, AZ  
+- Oversaw front desk operations, housing assignments, and group check-ins using StarRez.  
+- Provided exceptional customer service, resolving issues for students and parents.  
+- Managed payroll, scheduled shifts, and trained team members, demonstrating leadership and organization.
+
+### ACL Digital  
+**Software Engineer** (Feb 2022 – July 2023)  
+Bangalore, India  
+- Completed training in .Net, Java, Angular, and React JS.  
+- Developed Spring Boot applications and collaborated on software solutions.  
+- Designed Restful APIs for Single-Sign-On, enhancing performance and security.  
+- Managed databases, optimized performance, and participated in code reviews.  
+- Implemented security measures and developed unit tests to ensure reliability.
+
+---
+
+## Projects
+
+### Intelligent Technology Enhances the Friendliness of Pharmacy Care Service  
+*Technologies:* Python, TensorFlow, OpenCV, Tesseract, MySQL, Java, Spring Boot, Angular, React  
+- Developed an AI-based system for accurate prescription identification and real-time medication tracking.  
+- Integrated optical recognition to reduce prescription errors and enhance patient care.  
+- Improved healthcare service efficiency through advanced AI techniques.
+
+### Satin AI Project: Advancing Image Resolution and Distance Calculation  
+*Technologies:* Python, TensorFlow, MySQL, NASA Open Dataset  
+- Built an AI system to improve image resolution and distance calculation using machine learning.  
+- Enhanced image quality and scaling through image processing and analysis.
+
+---
+
+**Profile:** [erla-mounika-186214](https://github.com/mounika-erla)
